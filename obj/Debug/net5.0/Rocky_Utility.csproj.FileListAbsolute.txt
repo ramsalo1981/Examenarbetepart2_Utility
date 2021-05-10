@@ -1,0 +1,5 @@
+C:\Users\ramis\Desktop\asp udemy\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csprojAssemblyReference.cache
+C:\Users\ramis\Desktop\asp udemy\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\asp udemy\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\asp udemy\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfo.cs
+C:\Users\ramis\Desktop\asp udemy\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csproj.CoreCompileInputs.cache
